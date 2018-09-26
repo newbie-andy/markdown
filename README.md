@@ -1,4 +1,9 @@
-## Markdown Basic
+## Markdown Basic  
+
+**学习资源：**  
+[markdowntutorial在线练习，关关过，内容是基础的，扩展的内容没有](https://www.markdowntutorial.com/)  
+[Markdown Guide 更加详细的引导](https://www.markdownguide.org/)
+
 ### **1. 倾斜字体，用 _ 包裹需要斜体的文字内容**
 
 >**示例**：`_这里是斜体字内容_`
